@@ -1,0 +1,9 @@
+@import "reset.css";
+
+.jsGreetings__form,
+.jsGreetings__greeting {
+  display: none;
+}
+.showing {
+  display: flex;
+}
